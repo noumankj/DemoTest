@@ -2,3 +2,12 @@ This is git Demo
 ********************
 Here I will show some of the basic commands used in the Git
 ***********************
+git status //is used to show the status of uncommited/modified files
+git add . //is used to add all files 
+git commit -m "Message here" //is used to commit all the chnages to the selected repository
+git branch // show all the branches
+git checkout branchname // e.g git checkout dev will change the branch to dev from master
+git checkout -b "Dev" // will create a new branch Dev
+git push origin master // will push all the commits in the master branch
+git pull // will update local repisotry with latest changes on  Github repository
+**************************
