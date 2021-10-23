@@ -11,3 +11,4 @@ git checkout -b "Dev" // will create a new branch Dev
 git push origin master // will push all the commits in the master branch
 git pull // will update local repisotry with latest changes on  Github repository
 **************************
+git pull origin dev:Testing
